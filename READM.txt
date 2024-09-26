@@ -1,4 +1,0 @@
-This is a repository for creating mathematical objects, given a plotted surface in Python.
-
-By Bruno Murakami, Sarah F
-ernades da Souza and Professor Dr John Andrew Sims. 
